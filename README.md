@@ -4,7 +4,11 @@
 
 ## Preview
 
-https://github.com/startopandrey/Star-Wars-Followers/assets/57915312/8882ce89-b92b-4700-b381-5cec8b711139
+
+
+https://github.com/startopandrey/Star-Wars-Followers/assets/57915312/cdf8fe5a-11ca-4273-b534-db766fadab12
+
+
 
 
 ## Step 1: Start the Metro Server
