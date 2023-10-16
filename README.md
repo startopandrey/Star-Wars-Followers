@@ -9,7 +9,20 @@
 https://github.com/startopandrey/Star-Wars-Followers/assets/57915312/cdf8fe5a-11ca-4273-b534-db766fadab12
 
 
+## Step 0: Download Packages
 
+
+```bash
+# using npm
+sudo npm install
+
+# OR using Yarn
+sudo yarn start
+```
+
+cd ios && pod install
+
+cd ..
 
 ## Step 1: Start the Metro Server
 
